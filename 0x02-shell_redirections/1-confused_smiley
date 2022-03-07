@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo '(Ôo)(Ôo)
+cat >/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley <<EOL
+#!/bin/bash
+echo '"(Ôo)''
